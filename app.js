@@ -1,4 +1,4 @@
-// noinspection JSUnresolvedVariable,JSUnresolvedFunction
+// noinspection JSUnresolvedVariable,JSUnresolvedFunction,JSUnusedLocalSymbols
 
 const createError = require('http-errors');
 const express = require('express');
